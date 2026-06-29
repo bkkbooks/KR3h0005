@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3h0005/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 書譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:13:38.661027'
+  source:
+    repository: kanripo
+    path: KR3h0005/KR3h0005_000.txt
+hash: sha256:56bb212ddb7036a26754dd52da119f4e8b4d14696b3edfde70b228c074d8ed63

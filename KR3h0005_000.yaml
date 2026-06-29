@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3h0005/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 書譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:13:38.661027'
+  source:
+    repository: kanripo
+    path: KR3h0005/KR3h0005_000.txt
+hash: sha256:ee998d5522b610e79a3b64da43bc4532b5e848a363493f616e2716c587e4be83
