@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3h0005_000-WYG.yaml, hash: 'sha256:56bb212ddb7036a26754dd52da119f4e8b4d14696b3edfde70b228c074d8ed63'}
   - {seq: 1, filename: KR3h0005_001-WYG.yaml, hash: 'sha256:319afb6f0cffc297a61f401c24960b9730f49af6eb9e27eedb25ce624f683ea5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0005_001-WYG.markers.yaml, hash: 'sha256:1f671300417d17a9beaae0d95e5c4f29651b6b3941556dd588a57aa15c0844e1'}
+  - {seq: 1, role: markers, filename: assets/KR3h0005_001-WYG.markers.yaml, hash: 'sha256:c6fad8e0ebb6a94b7f02d9682601a93f4dd7c2c85de933851d88b4410dc95b09'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,4 @@ table_of_contents:
   label: 書譜
   type: section
   level: 1
-hash: sha256:db9f594f8073edf03be8e0a36ffbded46b21d05949d5494ec8cfd779e6eef0d9
+hash: sha256:c33f1c692f1dcab4ff5221e7ff80d27f83945ba2fa56bcd4047aa969beb59643
